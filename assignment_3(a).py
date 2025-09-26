@@ -1,13 +1,6 @@
 import nltk
-nltk.download('brown')
-nltk.download('punkt_tab')
-
 from nltk.corpus import brown
 from nltk.tokenize import sent_tokenize, word_tokenize
-
-# Download (only if not already done)
-nltk.download('brown')
-nltk.download('punkt')
 
 # Load text from 'news' category
 news_text = brown.words(categories='news')
