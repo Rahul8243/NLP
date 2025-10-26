@@ -33,5 +33,3 @@ print(f"Total Sentences      : {total_sentences}")
 print(f"Total Words          : {total_words}")
 print(f"Vocabulary Size      : {vocab_size}")
 
-#  before tokenization
-print("(before tokenization) brown.sents count:", len(news_sents_list))
