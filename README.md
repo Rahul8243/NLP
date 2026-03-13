@@ -20,6 +20,4 @@ This repository contains Python programs developed for Natural Language Processi
 * NLTK Library
 * Basic Text Processing
 
-## Author
 
-Rahul Kumar
